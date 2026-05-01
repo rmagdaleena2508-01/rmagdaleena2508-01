@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 🌏 **Location** — Chennai, India 🇮🇳  
-🎯 **Focus** — Flutter · Dart · Web  
+🎯 **Focus** — AI Engineering · Agentic AI · Flutter · Dart · Web  
 💡 **Mindset** — Build → Optimize → Improve → Repeat  
 🎓 **Currently** — CS Student @ SRM IST Vadapalani  
 
