@@ -77,7 +77,7 @@ class Magdaleena {
 
 <img src="https://github-readme-stats.vercel.app/api?username=rmagdaleena2508-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagdaleena2508-01&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+
 
 </div>
 
