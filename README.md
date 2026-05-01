@@ -13,17 +13,17 @@
 
 ## 🧠 About Me
 
-🌏 **Location** — Chennai, India 🇮🇳
-🎯 **Focus** — Flutter · Dart · Web
-💡 **Mindset** — Build → Optimize → Improve → Repeat
-🎓 **Currently** — CS Student @ SRM IST Vadapalani
+🌏 **Location** — Chennai, India 🇮🇳**
+🎯 **Focus** — Flutter · Dart · Web**
+💡 **Mindset** — Build → Optimize → Improve → Repeat**
+🎓 **Currently** — CS Student @ SRM IST Vadapalani**
 
 **I'm interested in:**
-🤖 AI Engineering · 🧩 Agentic AI · 📱 Mobile App Development
-💳 Fintech Interfaces · 🌐 Frontend Engineering · 🌱 Open Source Contribution
+**🤖 AI Engineering · 🧩 Agentic AI · 📱 Mobile App Development**
+**💳 Fintech Interfaces · 🌐 Frontend Engineering · 🌱 Open Source Contribution**
 
-⚡ **Fun Fact** — State-level Taekwondo Player 🥋
-📣 **LinkedIn Content Creator** — 15,000+ impressions & growing 🚀
+⚡ **Fun Fact** — State-level Taekwondo Player 🥋**
+📣 **LinkedIn Content Creator** — 15,000+ impressions & growing **
 
 ---
 
