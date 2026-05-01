@@ -76,6 +76,7 @@ class Magdaleena {
 ![Manus AI](https://img.shields.io/badge/Manus_AI-000000?style=for-the-badge&logo=robot&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
