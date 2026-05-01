@@ -13,29 +13,17 @@
 
 ## 🧠 About Me
 
-```dart
-class Magdaleena {
-  String location    = "Chennai, India 🇮🇳";
-  String focus       = "Flutter · Dart · Web";
-  String mindset     = "Build → Optimize → Improve → Repeat";
-  String currentRole = "CS Student @ SRM IST Vadapalani";
+🌏 **Location** — Chennai, India 🇮🇳
+🎯 **Focus** — Flutter · Dart · Web
+💡 **Mindset** — Build → Optimize → Improve → Repeat
+🎓 **Currently** — CS Student @ SRM IST Vadapalani
 
-  List<String> interests = [
-    "AI Engineering"
-    "Agentic AI"
-    "Mobile App Development",
-    "Fintech Interfaces",
-    "Frontend Engineering",
-    "Open Source Contribution",
-  ];
+**I'm interested in:**
+🤖 AI Engineering · 🧩 Agentic AI · 📱 Mobile App Development
+💳 Fintech Interfaces · 🌐 Frontend Engineering · 🌱 Open Source Contribution
 
-  String funFact = "State-level Taekwondo Player";
-
-  // 📣
-  String contentCreator = "LinkedIn Content Creator";
-  String reach          = "15,000+ impressions & growing 🚀";
-}
-```
+⚡ **Fun Fact** — State-level Taekwondo Player 🥋
+📣 **LinkedIn Content Creator** — 15,000+ impressions & growing 🚀
 
 ---
 
