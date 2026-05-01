@@ -11,18 +11,18 @@
 
 ---
 
-## 🧠 About Me
+## Hey there, this is R.Magdaleena 
 
-🌏 **Location** — Chennai, India 🇮🇳  
-🎯 **Focus** — AI Engineering · Agentic AI · Flutter · Dart · Web  
-💡 **Mindset** — Build → Optimize → Improve → Repeat  
+🌏 **My Location** — Chennai, India 🇮🇳  
+🎯 **My Focus** — AI Engineering · Agentic AI · Flutter · Dart · Web  
+💡 **My Mindset** — Build → Optimize → Improve → Repeat  
 🎓 **Currently** — CS Student @ SRM IST Vadapalani  
 
 **I'm interested in:**  
 🤖 AI Engineering · 🧩 Agentic AI · 📱 Mobile App Development  
 💳 Fintech Interfaces · 🌐 Frontend Engineering · 🌱 Open Source Contribution  
 
-⚡ **Fun Fact** — State-level Taekwondo Player 🥋  
+⚡ **Fun Fact about me** — State-level Taekwondo Player 🥋 and District level Tennis Player 
 📣 **LinkedIn Content Creator** — 15,000+ impressions & growing 🚀  
 
 
