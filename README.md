@@ -21,6 +21,8 @@ class Magdaleena {
   String currentRole = "CS Student @ SRM IST Vadapalani";
 
   List<String> interests = [
+    "AI Engineering"
+    "Agentic AI"
     "Mobile App Development",
     "Fintech Interfaces",
     "Frontend Engineering",
