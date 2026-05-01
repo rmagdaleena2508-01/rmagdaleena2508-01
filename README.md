@@ -29,7 +29,7 @@ class Magdaleena {
     "Open Source Contribution",
   ];
 
-  String funFact = "In progress... 99.9991% loading ;)";
+  String funFact = "State-level Taekwondo Player";
 
   // 📣
   String contentCreator = "LinkedIn Content Creator";
