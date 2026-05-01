@@ -11,7 +11,7 @@
 
 ---
 
-## Hey there, this is R.Magdaleena 
+## Hey there, this is Magdaleena 
 
 🌏 **My Location** — Chennai, India 🇮🇳  
 🎯 **My Focus** — AI Engineering · Agentic AI · Flutter · Dart · Web  
