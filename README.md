@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+R.MAGDALEENA+%F0%9F%91%8B;Flutter+%26+Dart+Developer;Fintech+App+Builder;Builder+by+nature%2C+thinker+by+habit" alt="Typing SVG" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdaleena-r-ba0552310)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmagdaleena2508-01)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://magworks.vercel.app/)
 
 </div>
 
@@ -14,61 +11,69 @@
 ## Hey there, this is Magdaleena 
 
 🌏 **My Location** — Chennai, India 🇮🇳  
-🎯 **My Focus** — AI Engineering · Agentic AI · Flutter · Dart · Web  
+🎯 **My Focus** — AI Engineering · Agentic AI · Software Engineering  
 💡 **My Mindset** — Build → Optimize → Improve → Repeat  
 🎓 **Currently** — CS Student @ SRM IST Vadapalani  
 
-**I'm interested in:**  
+**I'm in:**  
 🤖 AI Engineering · 🧩 Agentic AI · 📱 Mobile App Development  
 💳 Fintech Interfaces · 🌐 Frontend Engineering · 🌱 Open Source Contribution  
 
 ⚡ **Fun Fact about me** — State-level Taekwondo Player 🥋 and District level Tennis Player 
-📣 **LinkedIn Content Creator** — 15,000+ impressions & growing 🚀  
+📣 **LinkedIn Content Creator** — 50K+ impressions & growing  
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-## 💻 Primary Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Mobile app development Language**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Web**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Platforms**
+**Frameworks & Libraries**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**AI / Agents**
+
+![OpenAI](https://img.shields.io/badge/GPT--4o--mini_(OpenAI_API)-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+Grounded LLM Systems · LLM Prompt Engineering · Sycophancy Evaluation · RAG Pipelines · Multi-Agent Systems · Agentic AI
+
+**Databases & Backend**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🤖 AI Tools
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
-![Manus AI](https://img.shields.io/badge/Manus_AI-000000?style=for-the-badge&logo=robot&logoColor=white)
-![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Jules](https://img.shields.io/badge/Jules-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -77,22 +82,6 @@
 | [⏰ Task Reminder App](https://github.com/rmagdaleena2508-01/Task-Reminder-App) | Async-first Dart app with Future/async/await | Dart |
 | [🚗 Porsche Landing Page](https://github.com/rmagdaleena2508-01/Porsche-Landing-Page) | Animated 5-page marketing site, deployed on Vercel | JavaScript · CSS |
 | [💬 Chat UI](https://github.com/rmagdaleena2508-01/Chat-UI-Static-Web-Page) | Clean static chat interface layout | HTML · CSS |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rmagdaleena2508-01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
