@@ -48,7 +48,7 @@ mindset:     Build → Optimize → Improve → Repeat
 focus:       Grounded LLM Systems · Multi-Agent Architectures · Mobile & Fintech Apps
 ```
 
-I'm an **AI Engineer** and CS student who loves turning ideas into production-style software — from **grounded LLM and multi-agent systems** to **fintech-grade Flutter apps**. I care about clean architecture, reliable AI behavior, and shipping things that actually work.
+I'm an **AI Engineer** and CS student who loves turning ideas into production style software  from **grounded LLM and multi-agent systems** to **fintech-grade Flutter apps**. I care about clean architecture, reliable AI behavior, and shipping things that actually work.
 
 🤖 AI Engineering &nbsp;·&nbsp; 🧩 Agentic AI &nbsp;·&nbsp; 📱 Mobile App Development
 💳 Fintech Interfaces &nbsp;·&nbsp; 🌐 Frontend Engineering &nbsp;·&nbsp; 🌱 Open Source
