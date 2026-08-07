@@ -1,171 +1,94 @@
-<!-- ====================== HEADER BANNER ====================== -->
-<div align="center">
+<h1 align="center">Hi, I'm R. Magdaleena 👋</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=R.%20Magdaleena&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
+<p align="center">
+  <b>B.Tech CSE @ SRMIST Vadapalani</b> · Aspiring Software Engineer & AI Engineer
+</p>
 
-<!-- ====================== TYPING ANIMATION ====================== -->
-<a href="https://github.com/rmagdaleena2508-01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=388BFD&center=true&vCenter=true&width=650&height=60&lines=AI+Engineer+%40+SRM+IST;Building+Grounded+LLM+%26+Multi-Agent+Systems;Flutter+%26+Fintech+App+Developer;Build+%E2%86%92+Optimize+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG" />
-</a>
-
-<!-- ====================== PROFILE VIEW COUNTER ====================== -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rmagdaleena2508-01&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
-
-</div>
-
-<!-- ====================== SOCIAL SHOWCASE ====================== -->
-<div align="center">
-
-### 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/rmagdaleena2508-01">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://YOUR-PORTFOLIO-URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-388bfd?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<p align="center">
+  I build camera-driven and agentic apps — computer-vision games, AI financial agents, and cross-platform Flutter/web products — turning ML models into things people can actually use.
+</p>
 
 ---
 
-<!-- ====================== ABOUT / SUMMARY ====================== -->
-## 👋 About Me
+### 🧭 About me
 
-```yaml
-name:        R. Magdaleena
-role:        AI Engineer · Agentic AI · Software Engineer
-location:    Chennai, India 🇮🇳
-education:   CS Student @ SRM IST Vadapalani 🎓
-mindset:     Build → Optimize → Improve → Repeat
-focus:       Grounded LLM Systems · Multi-Agent Architectures · Mobile & Fintech Apps
-```
-
-I'm an **AI Engineer** and CS student who loves turning ideas into production style software  from **grounded LLM and multi-agent systems** to **fintech-grade Flutter apps**. I care about clean architecture, reliable AI behavior, and shipping things that actually work.
-
-🤖 AI Engineering &nbsp;·&nbsp; 🧩 Agentic AI &nbsp;·&nbsp; 📱 Mobile App Development
-💳 Fintech Interfaces &nbsp;·&nbsp; 🌐 Frontend Engineering &nbsp;·&nbsp; 🌱 Open Source
-
-> ⚡ **Fun fact:** State-level Taekwondo player 🥋 & district-level Tennis player 🎾 — and a LinkedIn content creator with **50K+ impressions** and growing 📣
+- 🎓 B.Tech in Computer Science & Engineering at **SRM Institute of Science and Technology, Vadapalani**
+- 🤖 Focused on **AI engineering** (agents, computer vision) and **full-stack / cross-platform software**
+- 🛠️ I like shipping end-to-end — from the model to a live demo you can open in a browser
+- 🎯 **Open to new-grad Software Engineer & AI Engineer roles and open-source collaboration**
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack
-
-<div align="center">
+### 🧰 Tech Stack
 
 **Languages**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & AI**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) <!-- TODO: confirm ML/agent libs (LangChain, OpenAI, etc.) -->
 
-**AI / Agents**
+**Tools & Cloud**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-1f6feb?style=for-the-badge&logo=databricks&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Multi--Agent%20Systems-388bfd?style=for-the-badge&logo=probot&logoColor=white)
-
-`Grounded LLM Systems` · `Prompt Engineering` · `Sycophancy Evaluation` · `RAG Pipelines` · `Multi-Agent Systems` · `Agentic AI`
-
-**Databases & Backend**
-
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-<!-- ====================== FEATURED PROJECTS ====================== -->
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 💰 **[Smart-Interest-X](https://github.com/rmagdaleena2508-01)** | Production-style fintech app for interest & borrower tracking | `Flutter` · `Dart` |
-| 📊 **[Student Grade Tracker](https://github.com/rmagdaleena2508-01)** | Clean mobile app demonstrating core Flutter patterns | `Flutter` |
-| ⏰ **[Task Reminder App](https://github.com/rmagdaleena2508-01)** | Async-first Dart app using Future / async / await | `Dart` |
-| 🚗 **[Porsche Landing Page](https://github.com/rmagdaleena2508-01)** | Animated 5-page marketing site, deployed on Vercel | `JavaScript` · `CSS` |
-| 💬 **[Chat UI](https://github.com/rmagdaleena2508-01)** | Clean static chat interface layout | `HTML` · `CSS` |
+**🤖 AI Financial Agents** — Autonomous agents for financial workflows, turning natural-language goals into structured analysis and actions.
+`Python` · AI agents <!-- TODO: add stack + repo/demo link -->
 
-<div align="center">
-  <a href="https://github.com/rmagdaleena2508-01?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
-  </a>
-</div>
+**🧩 CubeSight — Rubik's Cube Scanner & Solver** — Scans a physical cube through your camera and computes the solution in real time, right in the browser.
+`JavaScript` · Computer Vision — [Live Demo](https://rmagdaleena2508-01.github.io/cubesolver)
 
----
+**✊ Throwdown — RPS with Hand Tracking** — Play rock-paper-scissors against the computer using live hand-gesture detection.
+`JavaScript` · `MediaPipe` <!-- TODO: add repo/demo link -->
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Analytics
+**📱 Flutter App** — Cross-platform mobile app built with Flutter.
+`Flutter` · `Dart` <!-- TODO: one-line value prop + repo/demo link -->
 
-<div align="center">
+**🏎️ Porsche Website Design** — A visually rich, animation-driven marketing site concept.
+`HTML` · `CSS` · `JavaScript` <!-- TODO: repo/demo link -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmagdaleena2508-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagdaleena2508-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rmagdaleena2508-01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=388bfd&fire=1f6feb&currStreakLabel=388bfd" alt="streak stats" />
-
-</div>
+**🧠 ProblemBase** — <!-- TODO: one-line value prop + stack + repo/demo link -->
 
 ---
 
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trophy Showcase
+### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rmagdaleena2508-01&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
+<!-- These cards render live from the github-readme-stats service -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rmagdaleena2508-01&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagdaleena2508-01&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
-<!-- ====================== CALL TO ACTION ====================== -->
-## 🤝 Let's Build Something Together
+### 🌱 Currently
 
-<div align="center">
+- Building **AI agent** systems and camera/computer-vision experiences
+- Learning deeper **ML engineering** and **production-grade agent design** <!-- TODO: tweak to what you're actually learning -->
 
-I'm always open to **collaborating on AI, agentic systems, and mobile projects**, contributing to **open source**, and connecting with fellow builders.
+---
 
-💬 Have an idea, a project, or just want to talk shop? **Let's connect!**
+### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
-  <img src="https://img.shields.io/badge/Start%20a%20Conversation-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="cta" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) <!-- TODO: LinkedIn URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url) <!-- TODO: portfolio URL -->
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/your-handle) <!-- TODO: X/Twitter URL -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rmagdaleenawork@gmail.com)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
-
-<sub>⭐️ From <a href="https://github.com/rmagdaleena2508-01">R. Magdaleena</a> — Build → Optimize → Improve → Repeat</sub>
-
-</div>
+> 💼 **Open to new-grad SWE & AI Engineer roles — let's build something.**
