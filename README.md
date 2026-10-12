@@ -32,7 +32,9 @@ Turns out I'm not just a backend dev ;) the frontend is mine too, and the sites 
 ### My stack
 
 **Frontend** — HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Tailwind · GSAP · Three.js
+
 **Backend** — Python · C · C++ · FastAPI · MongoDB · PostgreSQL · Java
+ 
 **AI / Agents** — CrewAI · Pydantic · OpenAI / Gemini / Groq · MCP
 
 ---
