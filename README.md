@@ -25,7 +25,7 @@ Turns out I'm not just a backend dev ;) the frontend is mine too, and the sites 
 - **Technical** — 4× AI internships @ startups · Agentic AI, Enterprise AI, AI research
 - **Hackathons** — 3× winner @ college level *(teamed up with random people — still won)*
 - **Creative thinker** - I come up with quick creative ideas even when minimal input is given
--**Problem Solver** : I quickly come up with solutions for the problems I solve
+- **Problem Solver** : I quickly come up with solutions for the problems I solve
 
 
 
