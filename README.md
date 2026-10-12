@@ -16,10 +16,11 @@ Turns out I'm not just a backend dev ;) the frontend is mine too, and the sites 
 
 - **[Portfolio](https://magdaleena.me)** — AI engineer portfolio
 - **[CSI SRMIST Vadapalani](https://csi-srmistvdp.vercel.app/)** — student tech-community site for SRMist VDP
+- **[CSE Spolight](https://cse-spotlight.vercel.app/)** — See the top performer's of SRMist VDP; showcase of student's achievements
 - **[Podium](https://rmagdaleena2508-01.github.io/podium/)** — pitch-deck voting app *(in development)*
 - **[Tribezo](https://tribezo-8tqo.vercel.app/)** — tribe game where the tribe speaks in reverse 
 
-### Who I am 
+### Who am I 
 
 - **Leadership** — 4× Campus Ambassador · *prev* @ HackerRank
 - **Technical** — 4× AI internships @ startups · Agentic AI, Enterprise AI, AI research
